@@ -9,5 +9,5 @@ git commit -m "Que quieres comentar"
 #AGREGAR UN REPOSITORIO REMOTO
 git remote add origin la_url_del_repositorio
 #SUBIR LOS CAMBIOS AL SERVIDOR REMOTO
-git push origin -u master
+git push origin -u master   
 
