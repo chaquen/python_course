@@ -1,0 +1,22 @@
+[
+{
+	"hora":"21:35",
+	"mensaje":"ALERTA",
+	"url_alerta":"NOEL_PETRO_AZUCENA.mp3",
+	"comando":"vlc"
+},
+{
+	"hora":"21:39",
+	"mensaje":"ALERTA",
+	"url_alerta":"https://www.youtube.com/watch?v=SFMtkR0iSj0",
+	"comando":"firefox"
+},
+{
+	"hora":"21:56",
+	"mensaje":"ALERTA",
+	"url_alerta":"'alerta' 'brother debe descansar' -u critical -t 1000000 -i error",
+	"comando":"notify-send"
+}	
+
+
+]
