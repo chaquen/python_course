@@ -30,4 +30,10 @@ print("se repite la palabra niño en la lista ",lista.count("ñiño"),"veces")
 print(lista[3])
 for x in lista:
 	print x
+print "==="	
+ls=list([dict([["a","aa"],["b",["bb"]]])])
+print ls
+ls[0]["b"] = [1,[1,2,3],3,4,"5","6","7","8,9,10,11,12",13,14,15,16,17,18,19,20]
+print ls[0]["b"]
+print ls 
 
